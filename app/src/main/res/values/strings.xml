@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PagingDemo</string>
+    <string name="my_quote">Be the best version of yourself!</string>
+    <string name="my_quote_author">-abhishek pathak</string>
+</resources>
